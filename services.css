@@ -1,0 +1,144 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	font-size: 22px;
+	padding: 14px;
+	background-image: url("images/youu.jpg");
+	font-family: 'Cormorant Garamond', serif;
+	background-size: 1600px 1100px;
+}
+header nav {
+	text-align: center;
+}
+ header nav ul {
+	margin: 0;
+	padding: 0;
+	list-style: none;
+	display: block;
+	line-height: 161px;
+}
+
+header nav ul li {
+	display: inline-block;
+	padding: 0 20px;
+
+}
+
+header nav ul li a {
+	text-transform: uppercase;
+	text-decoration: none;
+	font-weight: bold;
+	border:outset;
+	color: #696969;
+	font-size: 22px;
+}
+
+header nav ul li a:hover {
+	color: #4b2707;
+	padding-top: 20px;
+	
+}
+
+header nav ul li#logo a {
+	display: block;
+	width: 292px;
+	height: 141px;
+	background: url("images/logo.jpg") center center no-repeat;
+	
+}
+header nav ul li#logo a:hover {
+	padding: 0;
+	
+}
+
+.fa-venus {
+	display: inline-block;
+	color: black;
+	background: green;
+    width: 2%;
+}
+h1 {
+	font-size: 2.5em;
+	font-weight: 400px;
+	
+	text-align: center;
+	background: #696969;
+	color: #ffffff;
+	
+	
+
+}
+
+
+ p {
+	left: 400px;
+	width: 50%;
+     border:inset;
+    position: relative;
+    font-size: 24px;
+    font-style: italic;
+    font-weight: 400px;
+    border-width: 10px;
+
+}
+h4 {
+	color: #696969;
+	margin: 10px;
+	font-size: 40px;
+}
+h5 {
+	color: #696969;
+}
+h5,h4 {
+text-decoration: underline;
+font-size: 30px;
+}
+h2 {
+	font-size: 40px;
+	
+	padding: 10px 10px 10px 10px;
+   font-style: bold;
+}
+
+.po {
+	padding: 20px 20px 20px 20px;
+	margin: 20px 20px 20px 20px;
+	position: relative;
+text-align: center;
+
+}
+
+.pa {
+	padding: 20px 20px 20px 20px;
+	margin: 20px 20px 20px 20px;
+	position: relative;
+text-align:center;
+}
+
+ 
+
+
+
+address {
+	margin: 10px 10px;
+	padding: 10px 10px;
+	background: #DB7093;
+	color: #ffffff;
+	width: 98%;
+	font-size: 24px;
+    font-style: inherit;
+
+}
+.fab {
+  
+  font-size: 30px;
+  
+
+  text-align: center;
+  text-decoration: none;
+ 
+}
+

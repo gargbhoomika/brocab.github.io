@@ -1,0 +1,119 @@
+body {
+	padding:14px;
+	font-size: 24px;
+	background: #d3d3d3;
+	text-align: center;
+	font-family: 'Cormorant Garamond', serif;
+}
+h1 {
+ font-size: 46px;
+ 
+
+}
+
+
+h4 {
+margin: 10px 10px;
+}
+
+
+
+
+
+h4,h5{
+	font-size: 36px;
+	text-decoration: underline;
+	
+	text-indent: -70%;
+
+}
+
+address {
+	text-indent: -70%;
+
+}
+
+.kindly p {
+text-align: center;
+padding:0;
+}
+.kindle p {
+	text-align: center;
+}
+
+header nav {
+	text-align: center;
+}
+ header nav ul {
+	margin: 0;
+	padding: 0;
+	list-style: none;
+	display: block;
+	line-height: 141px;
+}
+
+header nav ul li {
+	display: inline-block;
+	padding: 0 20px;
+
+}
+
+header nav ul li a {
+	text-transform: uppercase;
+	text-decoration: none;
+	font-weight: bold;
+	border:outset;
+	color: #696969;
+	font-size: 22px;
+}
+
+header nav ul li a:hover {
+	color: #4b2707;
+	padding-top: 20px;
+	
+
+}
+
+
+header nav ul li#logo a {
+	display: block;
+	width: 292px;
+	height: 141px;
+	background: url("images/logo.jpg") center center no-repeat;
+	
+}
+header nav ul li#logo a:hover {
+	padding: 0;
+	
+}
+
+address  {
+	margin: 10px 10px 10px 10px;
+	padding: 15px 15px 15px 15px;
+	background: #696969;
+text-align: center;
+	color: #ffffff;
+	font-size: 24px;
+    font-style: inherit;
+
+}
+
+
+p {
+	margin: 20px 20px 20px 20px;
+	padding: 20px 20px 20px 20px;
+}
+
+.fab {
+  
+  font-size: 30px;
+  
+
+  text-align: center;
+  text-decoration: none;
+ 
+}
+
+
+
+

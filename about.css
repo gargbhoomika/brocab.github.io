@@ -1,0 +1,130 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	font-size: 22px;
+	padding: 14px;
+	background: #d3d3d3;
+	font-family: 'Cormorant Garamond', serif;
+}
+header nav {
+	text-align: center;
+}
+ header nav ul {
+	margin: 0;
+	padding: 0;
+	list-style: none;
+	display: block;
+	line-height: 141px;
+}
+
+header nav ul li {
+	display: inline-block;
+	padding: 0 20px;
+
+}
+
+header nav ul li a {
+	text-transform: uppercase;
+	text-decoration: none;
+	font-weight: bold;
+}
+
+header nav ul li a:hover {
+	color: #4b2707;
+	padding-top: 20px;
+	
+}
+
+header nav ul li#logo a {
+	display: block;
+	width: 292px;
+	height: 141px;
+	background: url("images/logo.jpg") center center no-repeat;
+	
+}
+header nav ul li#logo a:hover {
+	padding: 0;
+	
+}
+
+
+
+h1 {
+	font-size: 2.5em;
+	font-weight: 400px;
+	text-decoration: underline;
+	text-align: center;
+	
+	color: #696969;
+	padding: 10px 10px;
+	
+	
+}
+
+p {
+	font-size: 21px;
+	padding: 10px 10px 10px 10px;
+	border: inset;
+    border-width: 10px;
+}
+
+
+
+
+
+
+
+
+
+h4,h5 {
+	font-size: 2em;
+	text-decoration: underline;
+	padding: 20px 20px 20px 20px;
+
+}
+.im  {
+ 	text-align: center;
+ 	width: 100%;
+ }
+
+
+
+address {
+	margin: 10px 10px;
+	padding: 10px 10px;
+	background: #d3d3d3;
+	
+	width: 95%;
+	font-size: 24px;
+    font-style: inherit;
+
+}
+.fab {
+  
+  font-size: 30px;
+  
+
+  text-align: center;
+  text-decoration: none;
+ 
+}
+
+.fa-facebook-square{
+   background: #3B5998;
+  color: white;
+}
+.fa-instagram {
+  background: #ea4c89;
+  color: white;
+}
+.fa-envelope {
+  background: #007bb5;
+  color: white;
+}
+.fa-twitter {
+  background: #55ACEE;
+  color: white;
+}

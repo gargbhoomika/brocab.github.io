@@ -1,0 +1,17 @@
+.downloadbutton {
+  margin: 1% 1% 0 0;
+background: #696969;
+color: #ffffff;
+font-size: 36px;
+}
+h1 {
+text-align: center;
+	margin: 10px 10px 10px 10px;
+	padding:10px 10px 10px 10px;
+	font-family: 'Cormorant Garamond', serif;
+	color: #696969;
+	font-style: bold;
+}
+body {
+	background: #d3d3d3;
+}
